@@ -10,6 +10,14 @@ A minimal and clean VS Code extension that allows you to easily hide files or fo
   - **Show hidden list**: View a list of everything currently hidden in your configurations.
   - **Remove hidden item**: Pick one item to remove from the hidden list in your workspace.
   - **Clear all hidden items**: Easily remove all entries that were added by this extension.
+  - **Toggle: Hide/Show all hidden items**: Toggles the visibility of all hidden items in your workspace.
+
+## Commands
+
+In addition to the status bar button, you can manage the extension directly from the **Command Palette** (`Ctrl+Shift+P` on Windows/Linux, `Cmd+Shift+P` on macOS):
+
+- `> Easy File Hide: Show Menu` - Opens the main UI Quick Pick menu.
+- `> Easy File Hide: Toggle Visibility` - Immediately toggles the visibility of your hidden files.
 
 ## Requirements
 
