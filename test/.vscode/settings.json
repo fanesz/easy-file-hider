@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/*.spec.*": true,
+    "**/*.md": true,
+    "**/hide-folder/": true,
+    "**/*.logs": true,
+    "**/specific.txt": true
+  }
+}
