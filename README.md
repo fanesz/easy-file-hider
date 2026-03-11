@@ -3,14 +3,15 @@
 A minimal and clean VS Code extension that allows you to easily hide files or folders from the Explorer through a simple UI, instead of manually editing your `settings.json`.
 
 
-https://github.com/user-attachments/assets/0ad34a79-6c6f-4552-b178-e1b6e8fde2c4
+Demo Video: https://github.com/user-attachments/assets/0ad34a79-6c6f-4552-b178-e1b6e8fde2c4
 
 
 ## Installation
 
-You can download this extension from VSCode Extension Marketplace:
+You can download this extension from:
+- [VSCode Extension Marketplace - Easy File Hider](https://marketplace.visualstudio.com/items?itemName=Fanesz.easy-file-hider) (Default VSCode)
+- [Open VSX - Easy File Hider](https://open-vsx.org/extension/Fanesz/easy-file-hider) (Antigravity, etc)
 
-https://marketplace.visualstudio.com/items?itemName=Fanesz.easy-file-hider
 
 <img width="324" height="151" alt="image" src="https://github.com/user-attachments/assets/bea9b18c-b1e8-47ad-8c62-bbe489733cde" />
 
