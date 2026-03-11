@@ -3,7 +3,7 @@
 A minimal and clean VS Code extension that allows you to easily hide files or folders from the Explorer through a simple UI, instead of manually editing your `settings.json`.
 
 
-Demo Video: https://github.com/user-attachments/assets/0ad34a79-6c6f-4552-b178-e1b6e8fde2c4
+https://github.com/user-attachments/assets/db834c41-b59f-4475-aedb-9bab1cb88e89
 
 
 ## Installation
@@ -38,3 +38,4 @@ In addition to the status bar button, you can manage the extension directly from
 ## Requirements
 
 No special requirements. It works securely on your workspace `.vscode/settings.json`.
+
